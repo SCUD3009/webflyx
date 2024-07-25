@@ -1,0 +1,37 @@
+[33mcommit 096428052c75692b968f82b91d1bd94d99dd047e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: a7d1df8 59f07a4
+Author: SCUD <s.c.u.d@web.de>
+Date:   Thu Jul 25 12:08:59 2024 +0200
+
+    Merge branch 'add_classics'
+    F: Merge branch "add_classics"
+
+[33mcommit a7d1df85ce8e450c26aef73cffa8dd77e2e84b8c[m
+Author: SCUD <s.c.u.d@web.de>
+Date:   Thu Jul 25 12:03:10 2024 +0200
+
+    E: updated contents.md
+
+[33mcommit 59f07a4093885afc6e4d9addf9ea425b123d5b01[m
+Author: SCUD <s.c.u.d@web.de>
+Date:   Thu Jul 25 11:46:32 2024 +0200
+
+    D: add classics
+
+[33mcommit 28a1e9bbbd37461271b0d95803dc57fa9ac9494b[m
+Author: SCUD <s.c.u.d@web.de>
+Date:   Tue Jul 23 02:04:55 2024 +0200
+
+    C: add quotes
+
+[33mcommit 5bc9dcab56ebaaf02c735c75fc79398164ba6751[m
+Author: SCUD <s.c.u.d@web.de>
+Date:   Tue Jul 23 01:56:16 2024 +0200
+
+    B: add titles
+
+[33mcommit d941d7dff124c6c6c3ad0b62337d90b8ba2a9682[m
+Author: SCUD <s.c.u.d@web.de>
+Date:   Tue Jul 23 00:52:35 2024 +0200
+
+    A: add contents.md
